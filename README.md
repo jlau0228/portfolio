@@ -1,5 +1,5 @@
 # Math and Computer Science Student
-[LinkedIn](https://www.linkedin.com/in/jessica-lau-/) | [Github](https://github.com/jlau0228)
+[LinkedIn](https://www.linkedin.com/in/jessica-lau-/) | [Github](https://github.com/jlau0228) | [Resume](/ResumeAug2024.pdf)
 
 ## Education
 ### Baruch College | Mathematics BA, Computer Science Minor | 3.97 GPA | Jan 2023 - May 2025
