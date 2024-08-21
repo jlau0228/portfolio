@@ -57,7 +57,7 @@
 - Jan 2022 - May 2022
 - Tutored 25+ Penn State students in Algebra, Calculus 1, Calculus 2, Statistics, Biology, Chemistry, and Physics in a one-on-one setting
 
-## Skills
+## Skills & Awards
 - Python, C++, SQL, Office Suite, Google Suite, Gantt Charts, DocAssist, MedicsPremier, Canva, Adobe Express, Premiere Pro
 - Fluent in English, Profic ient in Mandarin and Cantonese, Elementary in Japanese
 - Responsible, Reliable, Organized, Team Management, Team Player, Time Management, Quick Learner
