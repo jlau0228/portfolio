@@ -59,7 +59,7 @@
 
 ## Skills & Awards
 - Python, C++, SQL, Office Suite, Google Suite, Gantt Charts, DocAssist, MedicsPremier, Canva, Adobe Express, Premiere Pro
-- Fluent in English, Profic ient in Mandarin and Cantonese, Elementary in Japanese
+- Fluent in English, Proficient in Mandarin and Cantonese, Elementary in Japanese
 - Responsible, Reliable, Organized, Team Management, Team Player, Time Management, Quick Learner
 - Ruby Engineer Award, QuestBridge College Prep Scholar, AP Scholar Award
 
