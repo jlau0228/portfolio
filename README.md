@@ -15,7 +15,7 @@
 - Board Member of Engineering Club, Dancer and Choreographer in Fall and Spring Concerts
 
 ## Experience
-### Data Intern | Morgan Stanley
+### Wealth Management Analyst Intern | Morgan Stanley
 - Aug 2024 - Present
 - Troubleshooted data retrieval and analytic issues in finance
 
