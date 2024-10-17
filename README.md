@@ -17,18 +17,18 @@
 ## Experience
 ### Wealth Management Analyst Intern | Morgan Stanley
 - Aug 2024 - Present
-- Troubleshooted data retrieval and analytic issues in finance
+- Writing a program using Visual Studio Code with Python and pandas, numpy libraries to automate data cleaning and data analysis process of over 20,000 entries for reinvestment reporting
 
 ### Data Science Fellow | CUNY Tech Prep
 - Jun 2024 - Present
-- Worked on data analytic projects and participated in CTP’s 2024 Hackathon of 100+ participants with a team of 4 fellows
+- Selected for a competitive data science fellowship to create technical projects using tools such as Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL.
+- Participate in weekly courses and learn industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modeling, data visualization, machine learning techniques, data science process, and big data.
 
 ### Web Developer | Data Annotations
 - Apr 2024 - Present
-- Compared AI models and responses to prompts by labeling and categorizing data to help improve AI algorithms
-- Read, wrote, and evaluated code in Python
+- Compared AI models and responses to prompts by evaluating code in Python, labeling and categorizing data to help improve AI algorithms
 
-### Linear Algebra in Combinatorics Seminar | Baruch College 
+### Linear Algebra in Combinatorics Seminar Researcher and Presenter| Baruch College 
 - Jun 2024 - Aug 2024
 - Researched different applications of linear algebra and combinatorics, including the Fibonacci formula, error-correcting codes, odd distances, matrix multiplication, and tiling a rectangle by squares, in a team of students and presented in an invite-only seminar
 
@@ -50,8 +50,9 @@
 
 ### Scheduling and Outreach Officer | NASA
 - Jan 2022 - May 2022
-- Conducted and presented a team proposal and research to members in a NASA review panel as well as being on a review panel for other proposals
-- In charge of scheduling and budgeting the team’s proposal
+- Worked with a team of 12 students to conduct and present a proposal to a NASA review panel for adapting bio characteristics to improve spacecraft structures.
+- Oversaw the scheduling and budget of $10,000 for the proposal.
+- Sat on a review panel to evaluate other team proposals
 
 ### Peer Tutor | Pennsylvania State University
 - Jan 2022 - May 2022
