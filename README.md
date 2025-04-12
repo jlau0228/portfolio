@@ -1,5 +1,5 @@
 # Math and Computer Science Student
-[LinkedIn](https://www.linkedin.com/in/jessica-lau-/) | [Github](https://github.com/jlau0228) | [Resume](/JessicaLau.pdf)
+[LinkedIn](https://www.linkedin.com/in/jessica-lau-/) | [Github](https://github.com/jlau0228) | [Resume](/ResumeApr2025.pdf)
 
 ## Education
 ### Baruch College | Mathematics BA, Computer Science Minor
