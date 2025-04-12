@@ -28,8 +28,8 @@
 
 ### Wealth Management Analyst Intern | Morgan Stanley
 - Aug 2024 - Dec 2024
-- Communicated with stakeholders, financial advisors, and wealth management analysts to gather requirements, manage expectations, and ensure solutions fit for on-demand metrics of advisor success to drive informed assignments and decisions
-- Optimized and automated a manual cleaning and analysis process of reinvestment reporting by creating a script using Python, Pandas, NumPy, and ast libraries, which saved time by reducing the process from 3 days to 1 hour, reducing human-error, and making analysis process easier for the user
+- Communicated with stakeholders, financial advisors, and wealth management analysts to gather requirements, manage end-to-end delivery, and ensure solutions fit for on-demand metrics of advisor success to drive informed assignments and decisions on client assets
+- Optimized and automated analysis of reinvestment reporting using Python, Pandas, NumPy, and ast libraries, to manipulate and summarize datasets of over 20,000 client accounts, which expedited the process from 3 days to 1 hour, reducing human-error, and making analysis process more accessible
 
 ### Web Developer | Data Annotations
 - Apr 2024 - Present
